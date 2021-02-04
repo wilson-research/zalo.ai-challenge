@@ -1,0 +1,1 @@
+https://challenge.zalo.ai/portal/voice-verification
